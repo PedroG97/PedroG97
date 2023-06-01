@@ -1,16 +1,22 @@
-### Hi there 👋
+# Pedro Oliveira
 
-<!--
-**PedroG97/PedroG97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pedrooliveira)](https://linkedin.com/in/pedrooliveira)
 
-Here are some ideas to get you started:
+Olá! 👋 Sou o Pedro Oliveira, um desenvolvedor Full Stack apaixonado por criar aplicativos escaláveis e robustos. Adoro explorar novas tecnologias e resolver desafios complexos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+
+**Front-end:** HTML5, CSS, JavaScript, React
+**Back-end:** Node.js, Express.js
+**Banco de Dados:** MySQL, PostgreSQL
+**Controle de Versão:** Git, GitHub  
+**Testes:** Jest, Mocha, Chai  
+**Implantação:** Docker
+
+## 📬 Entre em Contato
+
+Fique à vontade para entrar em contato comigo. Vamos discutir ideias, colaborar em projetos ou apenas bater um papo!
+
+- Email: [pedronetopnae@gmail.com](mailto:pedronetopnae@gmail.com)
+
+Obrigado pela visita! 😄 Vamos construir coisas incríveis juntos!
