@@ -1,6 +1,6 @@
 # Pedro Oliveira
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pedrooliveira)](https://linkedin.com/in/pedrooliveira)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pedrooliveira)](https://www.linkedin.com/in/apedroneto/)
 
 Olá! 👋 Sou o Pedro Oliveira, um desenvolvedor Full Stack apaixonado por criar aplicativos escaláveis e robustos. Adoro explorar novas tecnologias e resolver desafios complexos.
 
